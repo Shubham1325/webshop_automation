@@ -15,5 +15,9 @@ public class ProfileTest extends BaseClass
 		homePage.profileSelect();
 		LogUtility logUtility=new LogUtility();
 		logUtility.checkUrl("info","expected url is verfied and step is passed");
+		System.out.println("Shubam Sir");
 	}
+	
+	
+	
 }
